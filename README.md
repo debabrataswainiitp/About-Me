@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Debabrata Swain
 
-🎓 Class of 2025–26 | Incoming CSE Undergrad (Aspirant)  
+🎓 Undergrad at Indian Institute of Technology, Patna | BS(Computer Science & Data Analytics)  
 💻 Python | HTML | CSS | Pandas | Matplotlib | NumPy  
 🎧 Tech enthusiast with a passion for code, creativity, and hands-on learning
 
@@ -16,7 +16,7 @@
 ## 🌱 In-Progress Learning
 - Git & GitHub  
 - Frontend Development  
-- Basic Open Source Contribution
+- Java
 - Data Structure Algo.  
 
 ## 📫 How to Reach Me
