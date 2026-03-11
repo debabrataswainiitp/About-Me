@@ -4,7 +4,7 @@
 💻 Python | HTML | CSS | Pandas | Matplotlib | NumPy  
 🎧 Tech enthusiast with a passion for code, creativity, and hands-on learning
 
-## 🚀 About Me
+## 🚀 Everything About Me
 
 - 📌 Completed Class 12 from Jawahar Navodaya Vidyalaya, Jagatsinghpur 
 - 🛠️ Developed an altered Version of Bluestacks Emulator with custom user-specific code for FPS, Stability as well as CleaN UI.
