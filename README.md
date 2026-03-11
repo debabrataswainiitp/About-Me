@@ -32,3 +32,4 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub] (https://img.shields.io/badge/github-repo-blue?logo=github)
