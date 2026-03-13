@@ -7,19 +7,21 @@
 ## 🚀 Everything About Me
 
 - 📌 Completed Class 12 from Jawahar Navodaya Vidyalaya, Jagatsinghpur 
-- 🛠️ Developed an altered Version of Bluestacks Emulator with custom user-specific code for FPS, Stability as well as CleaN UI.
-- 🎤 Coordinated school stage events with tech, audio, and visual projection assistance  
-- 👨‍💻 Certified internship at CIPET Bhubaneswar (practical + theoretical exposure)  
-- 🔬 Participated in cluster-level science & tech fests (JNV Dhenkanal & JNV Jajpur)  
-- 🎨 Photoshop, video editing & graphic designing experience for Professional school events 
+- 🛠️ Developed an altered Version of Bluestacks Emulator with custom user-specific code for FPS, Stability as well as CleaN UI  .
+- 🎤 Coordinated school stage events with tech, audio, and visual projection assistance  .
+- 👨‍💻 Certified internship at CIPET Bhubaneswar (practical + theoretical exposure)  .
+- 🔬 Participated in cluster-level science & tech fests (JNV Dhenkanal & JNV Jajpur)  .
+- 🎨 Photoshop, video editing & graphic designing experience for Professional school events .
+- 👨‍💻 Passionte Developer with a motive of making tech more accessible  .
+- 👾 Member of Freelanthropy Club Under ARTHNITI:THE ENTREPRENEURSHIP CELL of Student technical Council of Indian Institute of Technology, Patna  .
 
 ## 🌱 In-Progress Learning
-- Git & GitHub  
-- Frontend Development  
-- Java
+- Git & GitHub - 70 % Complete
+- Backendend Development  - Going on
+- Java - Weekend Learning
 - Data Structure Algo.  
 
-## 📫 How to Reach Me
+## 📫Reach Out to Me
 [LinkedIn](https://www.linkedin.com/in/debabrata-swain-80a063325/) | [GitHub](https://github.com/yourusername) | [Mail to](debabrata.jnv@gmail.com)
 
 
